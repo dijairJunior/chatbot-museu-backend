@@ -1,6 +1,6 @@
 package com.rocketsys.chatbotmuseu.ultils;
 
-import domain.FaqAnswer;
+import com.rocketsys.chatbotmuseu.domain.FaqAnswer;
 import lombok.Getter;
 import org.json.JSONArray;
 import org.json.JSONObject;
