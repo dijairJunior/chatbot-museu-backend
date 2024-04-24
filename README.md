@@ -1,6 +1,3 @@
-
-Claro, aqui está uma descrição básica do programa de backend para a integração com o frontend do chatbot do Museu do Doce, desenvolvido em Java:
-
 Descrição do Programa: Backend para o Chatbot do Museu do Doce
 
 O backend do chatbot do Museu do Doce é uma parte fundamental do sistema que gerencia a interação entre os usuários e o Museu, fornecendo respostas inteligentes e relevantes às perguntas dos visitantes. Desenvolvido em Java, este backend é responsável por processar as solicitações recebidas do frontend, interpretar as consultas dos usuários e fornecer respostas precisas e informativas em tempo real.
